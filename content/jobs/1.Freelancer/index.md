@@ -1,9 +1,9 @@
 ---
-date: '2018-05-14'
+date: '2022-08-01'
 title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
+company: 'Freelancer'
+location: 'Remote'
+range: 'August 2022 - Present'
 url: 'https://www.upstatement.com/'
 ---
 
