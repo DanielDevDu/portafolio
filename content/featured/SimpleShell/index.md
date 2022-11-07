@@ -2,7 +2,7 @@
 date: '3'
 title: 'Simple Shell'
 cover: './simple-shell.png'
-external: 'https://github.com/DanielDuDev/simple_shell'
+github: 'https://github.com/DanielDuDev/simple_shell'
 cta: ''
 tech:
   - C
