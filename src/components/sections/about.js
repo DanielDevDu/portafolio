@@ -127,7 +127,7 @@ const About = () => {
 
   const skills = [
     'Pyhton',
-    'C++',
+    'C#',
     'AWS',
     'React',
     'Docker',
@@ -136,6 +136,8 @@ const About = () => {
     'MySQL',
     'C',
     'GIT',
+    '.NET',
+    'Flutter',
   ];
 
   return (
