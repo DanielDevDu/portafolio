@@ -127,6 +127,7 @@ const About = () => {
 
   const skills = [
     'Pyhton',
+    'Django',
     'C#',
     'AWS',
     'React',
